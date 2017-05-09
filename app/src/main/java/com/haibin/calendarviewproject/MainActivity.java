@@ -16,8 +16,8 @@ import java.util.List;
 
 public class MainActivity extends AppCompatActivity implements OnDateChangeListener, OnDateSelectedListener {
 
-    TextView mTextMonthDay;
-
+    TextView mTextMonthDay;//
+    
     TextView mTextYear;
 
     TextView mTextLunar;
